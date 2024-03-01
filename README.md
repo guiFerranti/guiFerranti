@@ -5,10 +5,9 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Spring Boot, ASP.NET or Node.js to frontend development using ReactTS, to mobile developement using React Native, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on services development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-  <!-- API
-    <img width=55% align="center"  src="" />
-    <img width=40% align="center" src="https://github-readme-stats-bcmj-git-main-borderlessdev.vercel.app/api/top-langs/?username=guiFerranti&show_icons=true&theme=radical&layout=compact" />
-  -->
+
+<img width=40% align="center" src="https://github-readme-stats-bcmj-git-main-borderlessdev.vercel.app/api/top-langs/?username=guiFerranti&show_icons=true&theme=radical&layout=compact" />
+
 
  </div>
  
@@ -22,9 +21,9 @@
 #### Main Stack:
 
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -43,8 +42,8 @@
 
 #### Studying in this moment:
 
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 
 #### Databases:
 
