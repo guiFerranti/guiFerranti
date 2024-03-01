@@ -7,7 +7,7 @@
 <div  align="center" style="margin-bottom:100px">
   <!-- API
     <img width=55% align="center"  src="" />
-    <img width=40% align="center" src="" />
+    <img width=40% align="center" src="https://github-readme-stats-bcmj-git-main-borderlessdev.vercel.app/api/top-langs/?username=guiFerranti&show_icons=true&theme=radical&layout=compact" />
   -->
 
  </div>
